@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Initial"
 ---
 Needs more JPEG
 ---
